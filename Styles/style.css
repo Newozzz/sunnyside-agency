@@ -29,7 +29,7 @@ a {
 }
 
 .creat1 {
-  background-image: url(images/icons/icon-arrow-down.svg);
+  background-image: url(/images/icons/icon-arrow-down.svg);
   overflow: hidden;
   background-repeat: no-repeat;
   background-position: center bottom 400px;
@@ -38,7 +38,7 @@ a {
 }
 
 .box1 {
-  background-image: url(images/photos/image-header.jpg);
+  background-image: url(/images/photos/image-header.jpg);
   background-size: cover;
   background-position: center;
   overflow: hidden;
@@ -317,7 +317,7 @@ button {
   color: #19536C;
 }
 .box3--cerise {
-  background: url(images/photos/image-graphic-design.jpg);
+  background: url(/images/photos/image-graphic-design.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -335,7 +335,7 @@ button {
   }
 }
 .box3--orange {
-  background: url(images/photos/image-photography.jpg);
+  background: url(/images/photos/image-photography.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;

@@ -34,6 +34,7 @@ a {
     color: #FFF;
     letter-spacing: 8.75px;
     text-transform: uppercase;
+    
 
     @include media-maxwidth($mobile) {
         font-size: 40px;
@@ -41,7 +42,7 @@ a {
 }
 
 .creat1 {
-    background-image: url(images/icons/icon-arrow-down.svg);
+    background-image: url(/images/icons/icon-arrow-down.svg);
     overflow: hidden;
     background-repeat: no-repeat;
     background-position: center bottom 400px;
@@ -50,7 +51,7 @@ a {
 }
 
 .box1 {
-    background-image: url(images/photos/image-header.jpg);
+    background-image: url(/images/photos/image-header.jpg);
     background-size: cover;
     background-position: center;
     overflow: hidden;
@@ -343,7 +344,7 @@ button {
     }
 
     &--cerise {
-        background: url(images/photos/image-graphic-design.jpg);
+        background: url(/images/photos/image-graphic-design.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -361,7 +362,7 @@ button {
     }
 
     &--orange {
-        background: url(images/photos/image-photography.jpg);
+        background: url(/images/photos/image-photography.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
